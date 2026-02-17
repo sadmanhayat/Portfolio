@@ -1,0 +1,58 @@
+---
+title: "Sadman"
+format:
+  html:
+    theme: flatly
+    css: Styles.css
+    toc: false
+---
+
+::: {.hero-wrapper}
+
+<div class="hero-text">
+
+# Hi,
+## I’m **Sadman Hayat**
+
+### MBA Student | Finance & Investment
+I am an MBA candidate at University Canada West with a background in business development and marketing. I focus on finance, strategic growth, and data-driven decision-making to help organizations create measurable impact.
+
+[Contact Me](mailto:sadmanhayat@gmail.com){.btn-custom}
+
+
+<div class="hero-buttons">
+  <a href=“https://www.linkedin.com/in/sadman-hayat-578b84161/”
+     target="_blank" 
+     class="btn-linkedin">
+     LinkedIn
+  </a>
+
+</div>
+
+
+</div>
+
+<div class="hero-image">
+  <img src="Sadman.jpg" class="profile-pic">
+</div>
+
+:::
+
+## Education
+* **Master of Business Administration (MBA)** | University Canada West, Canada | 2025 – Present
+* **Bachelor of Business Administration (Marketing)** | United International University, Bangladesh | 2017 – 2022
+
+## Professional Highlights
+* **Business Development Executive** | Go Global, Bangladesh | 10/2023 – 11/2024
+    * Secured multiple strategic partnerships through persuasive negotiation and relationship management.
+    * Increased stakeholder engagement and brand clarity by 90% through high-impact copywriting.
+* **Customer Service Executive** | ShareTrip, Bangladesh | 11/2022 – 09/2023
+    * Managed digital community engagement while maintaining a consistent brand voice.
+    * Collaborated with marketing teams to translate customer feedback into service improvements.
+* **Brand Representative** | McDonald’s & Safeway, Vancouver | 05/2025 – Present
+    * Delivering service excellence and consistent brand experiences in high-traffic retail environments.
+
+## Core Skills & Certifications
+* **Skills:** Social Media Content Creation, Brand Messaging, Market Research, & Presentation Design.
+* **Languages:** Bilingual in English & Bengali.
+* **Certifications:** Google Fundamentals of Digital Marketing (2022) & UCW Career Launchpad (2026).
